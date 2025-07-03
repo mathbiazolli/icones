@@ -1,2 +1,2 @@
 # icones
-Repositário de imagens de ícones
+Repositório de imagens e site contendo os principais links
